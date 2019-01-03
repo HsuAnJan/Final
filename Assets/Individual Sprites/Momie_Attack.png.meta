@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: eafbad90d1179774bbe0936de3a4a9e0
+timeCreated: 1471592298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Momie_Attack_0
+    21300002: Momie_Attack_1
+    21300004: Momie_Attack_2
+    21300006: Momie_Attack_3
+    21300008: Momie_Attack_4
+    21300010: Momie_Attack_5
+    21300012: Momie_Attack_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.19, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Momie_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -17.000004}
+        - {x: 8, y: -21.000004}
+        - {x: 17, y: -19.000004}
+        - {x: 18, y: -11.000004}
+        - {x: 18, y: 12.999996}
+        - {x: 6, y: 36.999996}
+        - {x: -12, y: 36.999996}
+        - {x: -17, y: 3.9999962}
+        - {x: -17, y: -42.000004}
+        - {x: 11, y: -42.000004}
+        - {x: 13, y: -36.000004}
+        - {x: 6, y: -32.000004}
+        - {x: 6, y: -12.000004}
+    - name: Momie_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 36.999996}
+        - {x: -17, y: 36.999996}
+        - {x: -17, y: -42.000004}
+        - {x: 11, y: -42.000004}
+        - {x: 13, y: -36.000004}
+        - {x: 25, y: -7.000004}
+        - {x: 25, y: 25.999996}
+    - name: Momie_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 36.999996}
+        - {x: -16, y: 36.999996}
+        - {x: -17, y: 35.999996}
+        - {x: -17, y: -42.000004}
+        - {x: 16, y: -42.000004}
+        - {x: 28, y: 9.999996}
+        - {x: 28, y: 22.999996}
+        - {x: 27, y: 26.999996}
+    - name: Momie_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 36.999996}
+        - {x: -17, y: -42.000004}
+        - {x: 14, y: -42.000004}
+        - {x: 25, y: 0.9999962}
+        - {x: 25, y: 36.999996}
+    - name: Momie_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 42.999996}
+        - {x: -17, y: 28.999996}
+        - {x: -17, y: -42.000004}
+        - {x: 20, y: -42.000004}
+        - {x: 32, y: -26.000004}
+        - {x: 32, y: 40.999996}
+        - {x: 31, y: 42.999996}
+    - name: Momie_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 14.999996}
+        - {x: 5, y: 36.999996}
+        - {x: -3, y: 36.999996}
+        - {x: -8, y: 35.999996}
+        - {x: -14, y: 20.999996}
+        - {x: -17, y: -3.0000038}
+        - {x: -17, y: -42.000004}
+        - {x: 11, y: -42.000004}
+        - {x: 30, y: -2.0000038}
+        - {x: 30, y: 13.999996}
+        - {x: 23, y: 15.999996}
+    - name: Momie_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -17.000004}
+        - {x: 8, y: -21.000004}
+        - {x: 17, y: -19.000004}
+        - {x: 18, y: -11.000004}
+        - {x: 18, y: 12.999996}
+        - {x: 6, y: 36.999996}
+        - {x: -12, y: 36.999996}
+        - {x: -17, y: 3.9999962}
+        - {x: -17, y: -42.000004}
+        - {x: 11, y: -42.000004}
+        - {x: 13, y: -36.000004}
+        - {x: 6, y: -32.000004}
+        - {x: 6, y: -12.000004}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 7ffb093455ae1664b86b3eaf131156ef
+timeCreated: 1471914835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Momie_Dmg_0
+    21300002: Momie_Dmg_1
+    21300004: Momie_Dmg_2
+    21300006: Momie_Dmg_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Momie_Dmg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 35}
+        - {x: -27, y: 34}
+        - {x: -27, y: -42}
+        - {x: 9, y: -42}
+        - {x: 17, y: -39}
+        - {x: 17, y: 27}
+        - {x: -5, y: 35}
+      - - {x: -29, y: 23}
+        - {x: -28, y: 20}
+        - {x: -25, y: 20}
+        - {x: -21, y: 23}
+        - {x: -22, y: 26}
+        - {x: -25, y: 26}
+      - - {x: -6, y: 31}
+        - {x: -3, y: 32}
+        - {x: -3, y: 35}
+        - {x: -6, y: 36}
+        - {x: -8, y: 34}
+    - name: Momie_Dmg_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35}
+        - {x: -28, y: 34}
+        - {x: -28, y: -42}
+        - {x: 8, y: -42}
+        - {x: 16, y: -39}
+        - {x: 16, y: 27}
+        - {x: -6, y: 35}
+      - - {x: -30, y: 23}
+        - {x: -29, y: 20}
+        - {x: -26, y: 20}
+        - {x: -22, y: 23}
+        - {x: -23, y: 26}
+        - {x: -26, y: 26}
+      - - {x: -7, y: 31}
+        - {x: -4, y: 32}
+        - {x: -4, y: 35}
+        - {x: -7, y: 36}
+        - {x: -9, y: 34}
+    - name: Momie_Dmg_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 35}
+        - {x: -29, y: 32}
+        - {x: -29, y: -18}
+        - {x: -23, y: -42}
+        - {x: 8, y: -42}
+        - {x: 15, y: -35}
+        - {x: 15, y: 27}
+        - {x: -7, y: 35}
+      - - {x: -31, y: 23}
+        - {x: -30, y: 20}
+        - {x: -27, y: 20}
+        - {x: -23, y: 23}
+        - {x: -24, y: 26}
+        - {x: -27, y: 26}
+      - - {x: -8, y: 31}
+        - {x: -5, y: 32}
+        - {x: -5, y: 35}
+        - {x: -8, y: 36}
+        - {x: -10, y: 34}
+    - name: Momie_Dmg_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 35}
+        - {x: -30, y: -42}
+        - {x: 14, y: -42}
+        - {x: 14, y: 28}
+        - {x: 12, y: 35}
+      - - {x: -32, y: 23}
+        - {x: -31, y: 20}
+        - {x: -28, y: 20}
+        - {x: -24, y: 23}
+        - {x: -25, y: 26}
+        - {x: -28, y: 26}
+      - - {x: -9, y: 31}
+        - {x: -6, y: 32}
+        - {x: -6, y: 35}
+        - {x: -9, y: 36}
+        - {x: -11, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
